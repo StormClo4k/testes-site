@@ -1,0 +1,2 @@
+Site gerado pelo Site Studio.
+Abra o index.html no navegador ou envie a pasta para sua hospedagem.
